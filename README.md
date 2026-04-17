@@ -1,4 +1,6 @@
 # ProcessApp
+Лабораторна робота №2
+<img width="742" height="229" alt="image" src="https://github.com/user-attachments/assets/fc17afc0-1653-4261-83bf-53ed76fc35ce" />
 
 <img width="1383" height="740" alt="image" src="https://github.com/user-attachments/assets/39d3a5ef-6985-487f-bf59-761ec7a28634" />
 <img width="976" height="509" alt="image" src="https://github.com/user-attachments/assets/1d3e0db9-e221-4fa3-b96d-cefa1bf22cb7" />
